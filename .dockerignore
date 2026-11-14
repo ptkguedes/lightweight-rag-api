@@ -1,0 +1,8 @@
+.venv
+.git
+.pytest_cache
+.vscode
+**/__pycache__
+**/*.py[cod]
+chroma_db
+tests
